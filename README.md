@@ -1,7 +1,8 @@
 # Serverless Web Application on AWS
 
 ## Project Name: Serverless Web Application on AWS
-[Link](https://greeting.harry-vu.com/)
+
+[Live Demo](https://greeting.harry-vu.com/)
 
 ### Project Description:
 
